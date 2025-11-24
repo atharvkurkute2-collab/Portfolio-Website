@@ -12,7 +12,8 @@ The design is built using **Figma Auto Layout** and includes **Mobile, Tablet, a
 - Well-organized layers and component structure
 - Easy to scale and modify for different screen sizes
 
-## 📁 
+## 📁 Files Included
+- `design.fig` — Original Figma source file (https://www.figma.com/design/pyk2KUNMKPEYH7RXvM9iNb/internship?node-id=0-1&t=mrSaxMeIa9u3bdwz-1)
 - `screenshots/` folder  <img width="1919" height="973" alt="Screenshot 2025-11-23 230557" src="https://github.com/user-attachments/assets/4c3b4d8c-886b-455c-82dd-b4133a09836c" />
 
   - `mobile.png` <img width="1502" height="10804" alt="Mobile" src="https://github.com/user-attachments/assets/81638a6e-a786-4fca-85f6-8adeaf76ce4c" />
